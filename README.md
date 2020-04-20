@@ -1,6 +1,6 @@
 # iot-candysorter
 ## General Info
-This was (actually still developing this) a school project on an experimental IoT-course.
+This was a school project on an experimental IoT-course.
 Team members: Harri Nupponen, Valtteri Nummi, Topi Nummi
 ## Ingredients
 - ESP32 (Node MCU)
